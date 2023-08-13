@@ -1,0 +1,3 @@
+  "A cat is sitting on the chair.",
+    "A dog is playing in the park.",
+    "A sunset over the mountains."
